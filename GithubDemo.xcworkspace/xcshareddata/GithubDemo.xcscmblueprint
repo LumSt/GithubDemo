@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F950D137FF831EB040937BD7500D15DDE32DD12B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "93DEBA7E0516595211F0FD32B75372CD4B431192" : 9223372036854775807,
+    "F950D137FF831EB040937BD7500D15DDE32DD12B" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5E938A0E-1274-414D-8A4A-D861F573B3C0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "93DEBA7E0516595211F0FD32B75372CD4B431192" : "ios_github_demo-master\/Pods\/",
+    "F950D137FF831EB040937BD7500D15DDE32DD12B" : "ios_github_demo-master\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GithubDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GithubDemo.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/LumSt\/GithubRepoFinder\/tree\/master",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "93DEBA7E0516595211F0FD32B75372CD4B431192"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/LumSt\/GithubRepoFinder.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F950D137FF831EB040937BD7500D15DDE32DD12B"
+    }
+  ]
+}
